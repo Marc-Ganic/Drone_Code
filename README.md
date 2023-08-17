@@ -9,7 +9,7 @@ Sensorer
 720p kamera
 Barometer
 Rangefinder
-(billede af hvid drone fra toppen)
+![Tello Drone Top Profile](GFX/Tello_Drone_Top_Profile.jpg)
 
 Flyve ydelse
 Højde, 30m
@@ -25,4 +25,4 @@ Download software
 (billede af kaspers kode)
 
 Kommandoer
-(billede af commands)
+(5 billeder af commands)
