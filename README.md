@@ -17,3 +17,12 @@ Rækkevidde, 100m
 Flyvetid, max 13min
 ![optional billedtekst](GFX/djitello3.jpg)
 
+Hvordan holder den sig i luften og sin position?
+
+Hvordan kommunikere man med den?
+
+Download software
+(billede af kaspers kode)
+
+Kommandoer
+(billede af commands)
