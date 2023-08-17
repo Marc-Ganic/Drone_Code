@@ -15,7 +15,7 @@ Flyve ydelse
 Højde, 30m
 Rækkevidde, 100m
 Flyvetid, max 13min
-![optional billedtekst](GFX/djitello3.jpg)
+![Tello Drone Side Profile](GFX/djitello3.jpg)
 
 Hvordan holder den sig i luften og sin position?
 
