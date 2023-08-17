@@ -15,5 +15,5 @@ Flyve ydelse
 Højde, 30m
 Rækkevidde, 100m
 Flyvetid, max 13min
-(billede af hvid drone fra siden)
+![optional billedtekst](GFX/djitello3.jpg)
 
