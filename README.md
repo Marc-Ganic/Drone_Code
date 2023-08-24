@@ -27,6 +27,6 @@ Download software
 
 Kommandoer
 ![Tello Drone Commands](GFX/tellodronecommands1.png){width=250}
-![Tello Drone Commands](GFX/tellodronecommands2.png)
-![Tello Drone Commands](GFX/tellodronecommands3.png)
-![Tello Drone Commands](GFX/tellodronecommands4.png)
+![Tello Drone Commands](GFX/tellodronecommands2.png){width=250}
+![Tello Drone Commands](GFX/tellodronecommands3.png){width=250}
+![Tello Drone Commands](GFX/tellodronecommands4.png){width=250}
