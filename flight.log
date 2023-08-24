@@ -1,0 +1,8 @@
+root - WARNING - This message will get logged on to a file
+djitellopy - INFO - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+djitellopy - INFO - Send command: 'command'
+djitellopy - WARNING - Aborting command 'command'. Did not receive a response after 7 seconds
+djitellopy - INFO - Send command: 'command'
+djitellopy - WARNING - Aborting command 'command'. Did not receive a response after 7 seconds
+djitellopy - INFO - Send command: 'command'
+djitellopy - WARNING - Aborting command 'command'. Did not receive a response after 7 seconds
