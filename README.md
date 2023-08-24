@@ -30,3 +30,9 @@ Kommandoer
 ![Tello Drone Commands](GFX/tellodronecommands2.png)
 ![Tello Drone Commands](GFX/tellodronecommands3.png)
 ![Tello Drone Commands](GFX/tellodronecommands4.png)
+
+
+
+Eksempelkode som kan bruges til at lette dronen:
+Koden findes i filen: firstFlightTest.py 
+Koden er fundet på https://collabnix.com/how-to-control-dji-tello-mini-drone-using-python/ som også har andre eksempler på hvordan dronens funktioner betjenes
