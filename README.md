@@ -20,7 +20,7 @@ Flyvetid, max 13min
 Hvordan holder den sig i luften og sin position?
 
 Hvordan kommunikere man med den?
-Tello dronen kommunikere gennem wifi, det vil sige at dronen, og devicet skal være sluttet til samme wifi. Dog kan dronen også håndtere bluetooth hvis wifi ikke er tilgængeligt.
+Tello dronen kommunikere gennem wifi, det vil sige at dronen, og devicet skal være sluttet til samme wifi.
 
 Download software
 (billede af kaspers kode)
