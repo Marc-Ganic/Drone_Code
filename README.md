@@ -18,6 +18,7 @@ Flyvetid, max 13min
 ![Tello Drone Side Profile](GFX/djitello3.jpg)
 
 Hvordan holder den sig i luften og sin position?
+Tello dronen bruger sit barometer til at holde højden, og sensoren på bunden til at finde genkendelige punkter, og "låser" sig fast på de punkter
 
 Hvordan kommunikere man med den?
 Tello dronen kommunikere gennem wifi, det vil sige at dronen, og devicet skal være sluttet til samme wifi.
