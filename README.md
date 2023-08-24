@@ -25,7 +25,7 @@ Download software
 (billede af kaspers kode)
 
 Kommandoer
-![Tello Drone Commands](GFX/tellodronecommands1)
-![Tello Drone Commands](GFX/tellodronecommands2)
-![Tello Drone Commands](GFX/tellodronecommands3)
-![Tello Drone Commands](GFX/tellodronecommands4)
+![Tello Drone Commands](GFX/tellodronecommands1.png)
+![Tello Drone Commands](GFX/tellodronecommands2.png)
+![Tello Drone Commands](GFX/tellodronecommands3.png)
+![Tello Drone Commands](GFX/tellodronecommands4.png)
