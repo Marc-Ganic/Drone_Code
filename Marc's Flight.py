@@ -3,7 +3,7 @@ import cv2
 
 width = 320
 height = 240
-startCounter = 0
+startCounter = 1
 
 
 me = Tello()
@@ -27,12 +27,16 @@ while True:
 
     if startCounter == 0:
         me.takeoff()
-        me.move_left(20)
+        me.move_left(2)
         me.rotate_clockwise(90)
         startCounter = 1
+
+    if me.send_rc_control:
+        me.send_rc_control(me.left_right_velocity, me.for_back_velocity, me.up_down_velocity, me.yaw_velocity)
 
     cv2.imshow("MyResult", img)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
-        me.land()
+        print("Pressed")
+        me.emergency()
         break
