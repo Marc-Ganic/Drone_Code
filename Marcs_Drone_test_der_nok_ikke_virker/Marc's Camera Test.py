@@ -1,3 +1,4 @@
 from djitellopy import Tello
-import time
+import cv2
+
 
