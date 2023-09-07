@@ -3,7 +3,7 @@ import cv2
 
 width = 320
 height = 240
-startCounter = 1
+startCounter = 0
 
 
 me = Tello()
@@ -38,5 +38,5 @@ while True:
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         print("Pressed")
-        me.emergency()
+        me.land()
         break
