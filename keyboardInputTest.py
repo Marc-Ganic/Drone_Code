@@ -5,8 +5,8 @@ import cv2, math, time
 tello = Tello()
 tello.connect()
 
-tello.streamon()
-frame_read = tello.get_frame_read()
+#tello.streamon()
+#frame_read = tello.get_frame_read()
 
 tello.takeoff()
 
@@ -14,8 +14,8 @@ while True:
     # In reality you want to display frames in a seperate thread. Otherwise
     #  they will freeze while the drone moves.
 
-    img = frame_read.frame
-    cv2.imshow("drone", img)
+    #img = frame_read.frame
+    #cv2.imshow("drone", img)
 
     key = cv2.waitKey(1) & 0xff
     if key == 27:  # ESC
