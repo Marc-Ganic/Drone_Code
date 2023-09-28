@@ -6,13 +6,6 @@ tello.connect()
 
 tello.takeoff()
 
-for i in range(2):
-    tello.move_up(500)
-
-tello.emergency()
-
-
-
 
 tello.flip_forward()
 tello.flip_back()
